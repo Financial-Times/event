@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/wilsonpage/event.git"
+    "url": "https://github.com/Financial-Times/ft-app-event"
   },
   "contributors": [
     "Wilson Page",
